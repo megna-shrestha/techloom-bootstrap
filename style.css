@@ -1,0 +1,51 @@
+body{
+    font-family: "Roboto", sans-serif;
+}
+
+header{
+    background-image:linear-gradient(180deg,#a12fe2, #419fec);
+}
+
+.navbar-brand, .text-primary{
+    color: aliceblue !important; 
+    font-weight: 400;
+}
+
+.btn-primary{
+    background-color: #0a58ca !important;
+    border: none;
+}
+
+.nav-link:hover{
+    color: #97c0ff;
+}
+p{
+    font-size: 16px;
+}
+.btn-primary:hover{
+    background-color: #257dfd !important;
+}
+
+.blue-bg{
+    background-color: #0a58ca;
+    color:aliceblue;
+}
+
+.text-priimary{
+    color: #257dfd;
+}
+
+.icons{
+    height: 32px;
+    width: 32px;
+    margin-bottom: 16px;
+    color: #257dfd;
+    background-color: #f2f2f2;
+    padding: 6px;
+}
+.nav-tabs .nav-item .show .nav-link, .nav-tabs .nav-link.active{
+    border: none !important;
+    background-color: #0a58ca;
+    color: aliceblue;
+
+}
